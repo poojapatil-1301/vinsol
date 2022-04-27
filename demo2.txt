@@ -1,2 +1,3 @@
 This is my first git exercise.
 Staging area
+created conflict for feature2
